@@ -1,0 +1,23 @@
+# Postman
+/postman/dataset.url
+
+# Environments
+/venv
+/bin
+/Lib
+/lib64
+/Include
+/Scripts
+
+.env
+
+# Pycache
+/__pycache__
+/restful/__pycache__
+
+# Temp
+/models
+/pickles
+/datasets
+/resources
+/posttrained
